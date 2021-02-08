@@ -1,0 +1,23 @@
+.quiz-question-prompt {
+    margin: 15px 0;
+}
+
+.quiz-question-answer {
+    display: flex;
+    align-items: center;
+}
+
+.quiz-question-answer input {
+    margin-right: 10px;
+}
+
+.quiz-question-answer div {
+    padding: .75rem;
+    margin: 5px 0;
+    width: 500px;
+}
+
+.chosen-answer {
+    color: #fff;
+    background-color: hsl(204, 86%, 53%);
+}

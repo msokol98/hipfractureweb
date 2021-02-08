@@ -1,0 +1,28 @@
+.quiz-creation-form {
+    padding: 3%;
+    max-width: 700px !important;
+}
+
+.new-question {
+    padding: 50px 0;
+    min-width: 300px;
+}
+
+.new-question-prompt {
+    margin: 10px 0;
+}
+
+.answer-choice {
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+}
+
+.quiz-topic {
+    margin-bottom: 10px;
+}
+
+.correct-answer {
+    color: #fff;
+    background-color: #4BB543 !important;
+}
