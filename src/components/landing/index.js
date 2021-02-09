@@ -4,7 +4,7 @@ import 'bulma-divider/dist/css/bulma-divider.min.css';
 
 const Landing = () => (
     <>
-      <section className='hero is-medium orange'>
+      <section className='hero is-medium blue'>
         <div className='hero-body'>
           <div className='container'>
 
@@ -123,17 +123,17 @@ const Landing = () => (
         </div>
       </section>
 
-      <section className='section orange'>
+      <section className='section blue'>
         <div className='container'>
           <div className='content has-text-centered'>
 
-            <div className='serving-nc-wrapper' >
+            <div className='landing-page-section-row-4-wrapper' >
 
-              <div className='serving-nc'>
+              <div className='landing-page-section-row-4'>
                 <img src='health_icon.png' alt='nc' width='200' className='nc-image'/>
 
                 <div>
-                  <h3 className='title has-text-weight-normal has-text-white serving-nc-label'>
+                  <h3 className='title has-text-weight-normal has-text-white landing-page-section-row-4-label'>
                     Target high risk patients and reduce the incidence of hip fractures.
                   </h3>
                   <h3 className='subtitle has-text-weight-normal has-text-white'>Let's get started today.</h3>
